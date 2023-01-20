@@ -1,6 +1,7 @@
 <h1 align="center">Yo! 👋, I'm Gaurav</h1>
+<img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2021/07/zoro-gif-7.gif">
 <h3 align="center">Still Learning!</h3>
-(img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2021/07/zoro-gif-7.gif")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briskgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="briskgaurav" /> </p>
 
