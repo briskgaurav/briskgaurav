@@ -1,4 +1,4 @@
-<h1 align="center">Yo! 👋, I'm Gaurav</h1>
+<h1 align="center">Yo! 👋, I'm Gaurav Verma/h1>
 <img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2021/07/zoro-gif-7.gif">
 <h3 align="center">Still Learning!</h3>
 
