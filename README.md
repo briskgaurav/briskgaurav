@@ -1,9 +1,7 @@
-<p align='right'>
-  
+
 ![](https://komarev.com/ghpvc/?username=briskgaurav&style=for-the-badge&color=orange)
-  
-</p>
-<h1 align='center' > Yo! Gaurav here.. 🚀</h1>
+
+<h1 align='center' > Yo! Gaurav here 🚀</h1>
 </br>
 
 👩🏻‍💻 A Creative WebDev sharing about my journey and learnings in tech<br/>
@@ -32,7 +30,7 @@
 ![briskgaurav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=briskgaurav&theme=onedark&hide_border=true)
 </br>
 
-# ⚒️Language Used 
+# ⚒️Most Used Languages
 <br>
 
 ![briskgaurav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=briskgaurav&theme=onedark&show_icons=true&hide_border=true&layout=compact)
