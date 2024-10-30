@@ -29,9 +29,3 @@
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briskgaurav&langs_count=8&theme=onedark&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=briskgaurav&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=onedark) |
 
-
-# ⚒️Most Used Languages
-<br>
-
-![briskgaurav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=briskgaurav&theme=onedark&show_icons=true&hide_border=true&layout=compact)
-
