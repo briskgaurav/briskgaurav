@@ -1,11 +1,9 @@
-<h1 align="center">Yo! Gaurav Verma</h1>
-<b>
-  
+<h1 align="center">Yo! Gaurav Verma <a href="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"> </h1>
+
 👩🏻‍💻 A Creative WebDev sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Computer Science at the KCC Institute of Technology & Management, India<br/>
 🎨 3d Modeling & Texturing artist <br/>
-💭 Still learning.... Improvement++ :) <br/>
-</b>
+💭 Still learning.... <br/>
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
