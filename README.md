@@ -1,4 +1,4 @@
-<p align = 'right'>
+<p align='right'>
   
 ![](https://komarev.com/ghpvc/?username=briskgaurav&style=for-the-badge&color=orange)
   
