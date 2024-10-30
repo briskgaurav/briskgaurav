@@ -16,6 +16,6 @@
 
 
 <h2>🔍 Activities </h2>
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=briskgaurav&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briskgaurav&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=briskgaurav&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=briskgaurav&layout=compact)
 
