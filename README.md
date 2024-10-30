@@ -11,6 +11,6 @@
 # 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,threejs,tailwind,react,redux,github,git,figma,blender,firebase,greensock" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,threejs,tailwind,react,redux,firebase,git,github,figma,blender,greensock" />
   </a>
 </p>
