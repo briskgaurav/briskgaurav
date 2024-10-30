@@ -1,5 +1,8 @@
+<p align = 'right'>
+  
 ![](https://komarev.com/ghpvc/?username=briskgaurav&style=for-the-badge&color=orange)
-
+  
+</p>
 <h1 align='center' > Yo! Gaurav here.. 🚀</h1>
 </br>
 
