@@ -1,4 +1,4 @@
-<h1 align="center">Yo! Gaurav Verma <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"> </h1>
+<h1 >Yo! Gaurav Verma <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"> </h1>
 
 👩🏻‍💻 A Creative WebDev sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Computer Science at the KCC Institute of Technology & Management, India<br/>
