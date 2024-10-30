@@ -16,10 +16,11 @@
 
 # 🔍 Activities
 
-<center>
-  ![briskgaurav's Stats](https://github-readme-stats.vercel.app/api?username=briskgaurav&theme=onedark&show_icons=true&hide_border=true&count_private=true)
-![briskgaurav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=briskgaurav&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+<p align='center'>
+  
+![briskgaurav's Stats](https://github-readme-stats.vercel.app/api?username=briskgaurav&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 
 ![briskgaurav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=briskgaurav&theme=onedark&hide_border=true)
+![briskgaurav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=briskgaurav&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 
-</center>
+</p>
