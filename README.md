@@ -7,7 +7,6 @@
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Magdeline's github stats](https://github-readme-stats.vercel.app/api?username=xsol05&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <h2>💻 Tech Stack </h2>
 <p align="center">
   <a href="https://skillicons.dev">
