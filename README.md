@@ -25,10 +25,10 @@
 # 🔍 Activities
 <br>
 
-![briskgaurav's Stats](https://github-readme-stats.vercel.app/api?username=briskgaurav&theme=onedark&show_icons=true&hide_border=true&count_private=true)
-</br>
-![briskgaurav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=briskgaurav&theme=onedark&hide_border=true)
-</br>
+| ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=briskgaurav&show_icons=true&theme=onedark) | ![Gaurav GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=briskgaurav&theme=onedark)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briskgaurav&langs_count=8&theme=onedark&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=briskgaurav&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=onedark) |
+
 
 # ⚒️Most Used Languages
 <br>
