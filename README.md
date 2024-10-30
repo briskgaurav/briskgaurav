@@ -1,4 +1,4 @@
-# Yo! Gaurav Verma
+<p align="center">Yo! Gaurav Verma</p>
 
 👩🏻‍💻 A Creative WebDev sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Computer Science at the KCC Institute of Technology & Management, India<br/>
