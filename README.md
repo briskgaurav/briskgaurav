@@ -1,7 +1,7 @@
+![](https://komarev.com/ghpvc/?username=briskgaurav&style=for-the-badge&color=orange)
+
 <h1 align='center' > Yo! Gaurav here.. 🚀</h1>
 </br>
-
-![](https://komarev.com/ghpvc/?username=briskgaurav&style=for-the-badge&color=orange)
 
 👩🏻‍💻 A Creative WebDev sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Computer Science at the KCC Institute of Technology & Management, India<br/>
