@@ -13,3 +13,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,threejs,tailwind,react,redux,firebase,git,github,figma,blender,greensock" />
   </a>
 </p>
+
+
+<h2>🔍 Activities </h2>
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=briskgaurav&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briskgaurav&layout=compact)
+
