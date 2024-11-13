@@ -26,5 +26,5 @@
 
 | ![briskgaurav's Stats](https://github-readme-stats.vercel.app/api?username=briskgaurav&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![briskgaurav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=briskgaurav&theme=vue-dark&hide_border=true)                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  | ![Github Stars](https://github-readme-stats.vercel.app/api?username=briskgaurav&show_icons=true&hide_border=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=vue-dark) |
+| ![briskgaurav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=briskgaurav&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=briskgaurav&show_icons=true&hide_border=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=vue-dark) |
 
